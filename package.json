@@ -1,0 +1,10 @@
+{
+  "name": "cardflow",
+  "version": "0.1.0",
+  "description": "Local-first Instagram carousel generator from Markdown or JSON.",
+  "type": "module",
+  "bin": { "cardflow": "src/cli.js" },
+  "scripts": { "test": "node --test" },
+  "license": "MIT"
+}
+
